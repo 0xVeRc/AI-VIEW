@@ -71,5 +71,13 @@ Built with modularity and real-time performance in mind, AI-VIEW fuses advanced 
 
 ---
 
-## Soruce Code is Private..
+###🚧 Source Code: Currently Private
+I am actively fixing bugs and enhancing the code for improved performance and stability.
+
+###💡 Got a feature in mind?
+Feel free to share any desired features or suggestions — I am listening and improving continuously!
+
+
+https://3zzam.me/
+
 
